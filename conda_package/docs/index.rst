@@ -1,7 +1,7 @@
 MPAS-Tools
 ==========
 
-.. image:: _static/so60to10.png
+.. image:: _static/so60to12.png
    :width: 500 px
    :align: center
 
@@ -14,6 +14,15 @@ Prediction Across Scales (MPAS) components.  These tools are used by the
 ocean and land-ice test cases,
 the `MPAS-Analysis <https://github.com/MPAS-Dev/MPAS-Analysis>`_ package for
 analyzing simulations, and in other MPAS-related workflows.
+
+User's Guide
+============
+
+.. toctree::
+   :maxdepth: 2
+
+   mesh_creation
+   mesh_conversion
 
 Developer's Guide
 =================
